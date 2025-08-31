@@ -1,0 +1,1 @@
+# IoT-Agriculture-project-Smart-Fertilizer-Management-NPK-pH-Monitoring-with-Cloud-Intelligence-.
