@@ -15,7 +15,7 @@ The Raspberry Pi gateway processes data and gives **fertilizer recommendations**
 - **Rule-based decision system** for fertilizer recommendations  
 - Can be extended with **Machine Learning**  
 
------
+------
 
 ## 🛠 Hardware
 - ESP32 (MicroPython)  
