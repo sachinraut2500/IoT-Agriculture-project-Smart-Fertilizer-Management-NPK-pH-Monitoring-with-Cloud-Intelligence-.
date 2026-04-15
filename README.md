@@ -1,5 +1,5 @@
 # 🌱 Smart Fertilizer Management (IoT + Cloud Intelligence)
-----------------------
+------------------------
 ## 📖 Overview
 This project monitors **soil nutrients (NPK), pH, and EC (salinity)** using IoT sensors.  
 The ESP32 node collects data and sends it to the **cloud via MQTT**.  
