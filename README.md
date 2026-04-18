@@ -23,7 +23,7 @@ The Raspberry Pi gateway processes data and gives **fertilizer recommendations**
 - EC sensor  
 - Raspberry Pi (cloud gateway)  
 
--------
+---------
 
 ## 🧑‍💻 Software
 - MicroPython on ESP32  
